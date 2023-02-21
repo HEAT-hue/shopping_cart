@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "imgUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "amount": 800,
+        "title": "Headset"
+    },
+    {
+        "id": 2,
+        "imgUrl": "https://images.unsplash.com/photo-1605986723344-f60873d873fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG9yYW5nZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "amount": 400,
+        "title": "Orange"
+    },
+    {
+        "id": 3,
+        "imgUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "amount": 7000,
+        "title": "Laptop"
+    },
+    {
+        "id": 4,
+        "imgUrl": "https://images.unsplash.com/photo-1586253634026-8cb574908d1e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGl0ZW1zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" ,
+        "amount": 2900,
+        "title": "Camera"
+    },
+    {
+        "id": 1,
+        "imgUrl": "https://media.istockphoto.com/id/1203481911/photo/professional-make-up-artist-flat-lay-on-beige-background-for-fashion-woman.jpg?b=1&s=170667a&w=0&k=20&c=xUcmjxGbns0OJUvJufS33LLR9vP9u5JeRceNldT0Nmw=",
+        "amount": 13400,
+        "title": "Make Up"
+    },
+    {
+        "id": 1,
+        "imgUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Ym90dGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "amount": 400,
+        "title": "Bottle"
+    }
+]
